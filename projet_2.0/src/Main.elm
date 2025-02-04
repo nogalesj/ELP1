@@ -8,7 +8,7 @@ import String
 import Char exposing (..)
 import Html.Events exposing (onInput, onClick)
 import Html.Attributes exposing (placeholder, value, style)
-import Svg.Attributes exposing (width, height, x1, y1, x2, y2, stroke)
+import Svg.Attributes exposing (x1, y1, x2, y2, stroke)
 
 -- MAIN
 
